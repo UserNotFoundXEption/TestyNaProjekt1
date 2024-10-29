@@ -51,6 +51,27 @@ namespace WebLab3
         {
             Library.searchString = searchString;
         }
+
+        public static int[] GetChartValues()
+        {
+            int[] values = new int[8];
+            string[] periods = new string[] { "Ancient", "Middle Ages", "Renaissance", "Baroque", "Enlightment", "Romanticism", "Victorian", "Modern" };
+            
+            for(int i = 0; i < 8; i++)
+            {
+                int copies = 0;
+                foreach(Book book in books)
+                {
+                    if(book.period == periods[i])
+                    {
+                        copies += book.copies;
+                    }
+                }
+                values[i] = copies;
+            }
+
+            return values;
+        }
     }
 
     public class Book
@@ -58,5 +79,6 @@ namespace WebLab3
         public string title { get; set; }
         public string author { get; set; }
         public int copies { get; set; }
+        public string period { get; set; }
     }
 }

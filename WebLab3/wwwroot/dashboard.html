@@ -98,7 +98,7 @@
                                 <span class="navbar-toggler-bar bar3"></span>
                             </button>
                         </div>
-                        <a class="navbar-brand" href="#pablo">Dashboard</a>
+                        <a class="navbar-brand">books available by literary periods</a>
                     </div>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-bar navbar-kebab"></span>
@@ -157,84 +157,6 @@
                 <canvas id="bigDashboardChart"></canvas>
             </div>
             <div class="content">
-                <div class="row">
-                    <div class="col-lg-4">
-                        <div class="card card-chart">
-                            <div class="card-header">
-                                <h5 class="card-category">Global Sales</h5>
-                                <h4 class="card-title">Shipped Products</h4>
-                                <div class="dropdown">
-                                    <button type="button" class="btn btn-round btn-outline-default dropdown-toggle btn-simple btn-icon no-caret" data-toggle="dropdown">
-                                        <i class="now-ui-icons loader_gear"></i>
-                                    </button>
-                                    <div class="dropdown-menu dropdown-menu-right">
-                                        <a class="dropdown-item" href="#">Action</a>
-                                        <a class="dropdown-item" href="#">Another action</a>
-                                        <a class="dropdown-item" href="#">Something else here</a>
-                                        <a class="dropdown-item text-danger" href="#">Remove Data</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="card-body">
-                                <div class="chart-area">
-                                    <canvas id="lineChartExample"></canvas>
-                                </div>
-                            </div>
-                            <div class="card-footer">
-                                <div class="stats">
-                                    <i class="now-ui-icons arrows-1_refresh-69"></i> Just Updated
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="card card-chart">
-                            <div class="card-header">
-                                <h5 class="card-category">2018 Sales</h5>
-                                <h4 class="card-title">All products</h4>
-                                <div class="dropdown">
-                                    <button type="button" class="btn btn-round btn-outline-default dropdown-toggle btn-simple btn-icon no-caret" data-toggle="dropdown">
-                                        <i class="now-ui-icons loader_gear"></i>
-                                    </button>
-                                    <div class="dropdown-menu dropdown-menu-right">
-                                        <a class="dropdown-item" href="#">Action</a>
-                                        <a class="dropdown-item" href="#">Another action</a>
-                                        <a class="dropdown-item" href="#">Something else here</a>
-                                        <a class="dropdown-item text-danger" href="#">Remove Data</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="card-body">
-                                <div class="chart-area">
-                                    <canvas id="lineChartExampleWithNumbersAndGrid"></canvas>
-                                </div>
-                            </div>
-                            <div class="card-footer">
-                                <div class="stats">
-                                    <i class="now-ui-icons arrows-1_refresh-69"></i> Just Updated
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="card card-chart">
-                            <div class="card-header">
-                                <h5 class="card-category">Email Statistics</h5>
-                                <h4 class="card-title">24 Hours Performance</h4>
-                            </div>
-                            <div class="card-body">
-                                <div class="chart-area">
-                                    <canvas id="barChartSimpleGradientsNumbers"></canvas>
-                                </div>
-                            </div>
-                            <div class="card-footer">
-                                <div class="stats">
-                                    <i class="now-ui-icons ui-2_time-alarm"></i> Last 7 days
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
                 <!--ostatni rzad-->
                 <div class="row">
                     <div class="col-md-6">
@@ -256,6 +178,19 @@
                                         <label for="copies">Book available</label>
                                         <input type="number" class="form-control" id="copies" placeholder="3" min="1" required autocomplete="off">
                                     </div>
+                                    <div class="form-group">
+                                        <label for="period">Period</label>
+                                        <select class="form-control" id="period" required>
+                                            <option value="Modern">Modern</option>
+                                            <option value="Victorian">Victorian</option>
+                                            <option value="Romanticism">Romanticism</option>
+                                            <option value="Enlightment">Enlightenment</option>
+                                            <option value="Baroque">Baroque</option>
+                                            <option value="Renaissance">Renaissance</option>
+                                            <option value="Middle Ages">Middle Ages</option>
+                                            <option value="Ancient">Ancient</option>
+                                        </select>
+                                    </div>
                                     <button type="submit" class="btn btn-primary" id="addBookButton">Add book</button>
                                 </form>
                             </div>
@@ -274,6 +209,7 @@
                                                 <th>Title</th>
                                                 <th>Author</th>
                                                 <th>Copies available</th>
+                                                <th>Period</th>
                                             </tr>
                                         </thead>
                                         <tbody>
@@ -309,10 +245,7 @@
                     </ul>
                 </nav>
                 <div class="copyright" id="copyright">
-                    &copy;
-                    <script>
-                        document.getElementById('copyright').appendChild(document.createTextNode(new Date().getFullYear()))
-                    </script>, Designed by <a href="https://www.invisionapp.com" target="_blank">Invision</a>. Coded by <a href="https://www.creative-tim.com" target="_blank">Creative Tim</a>.
+                    kocham pierogi
                 </div>
             </div>
         </footer>
@@ -329,15 +262,8 @@
     <script src="./js/plugins/bootstrap-notify.js"></script>
     <!-- Control Center for Now Ui Dashboard: parallax effects, scripts for the example pages etc -->
     <script src="./js/now-ui-dashboard.js"></script>
-    <script src="./js/searchbar.js"></script>
+    <script src="./js/search-common-utils.js"></script>
     <script src="./demo/demo.js"></script>
-    <script>
-        $(document).ready(function () {
-            // Javascript method's body can be found in assets/js/demos.js
-            demo.initDashboardPageCharts();
-
-        });
-    </script>
 </body>
 
 </html>

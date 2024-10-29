@@ -66,10 +66,12 @@ $(document).ready(function () {
         const title = document.getElementById('title').value;
         const author = document.getElementById('author').value;
         const copies = document.getElementById('copies').value;
+        const period = document.getElementById('period').value;
         const bookData = {
             title: title,
             author: author,
-            copies: parseInt(copies, 10)
+            copies: parseInt(copies, 10),
+            period: period
         };
 
         fetch('/api/Books', {
@@ -83,6 +85,7 @@ $(document).ready(function () {
                 if (response.ok) {
                     updateBookData();
                     document.getElementById('bookForm').reset();
+                    tryToUpdateChart();
                 } else {
                     alert('Failed to save book');
                 }
@@ -187,7 +190,7 @@ function hexToRGB(hex, alpha) {
 
 async function getBookList() {
     try {
-        const response = await fetch('/api/Books', { method: 'GET' });
+        const response = await fetch('/api/Books?type=list', { method: 'GET' });
         if (!response.ok) {
             throw new Error('Failed to load books');
         }
@@ -201,35 +204,22 @@ async function getBookList() {
 }
 
 async function updateBookData() {
-    const tableBody = document.getElementById('bookTable').getElementsByTagName('tbody')[0];
-    tableBody.innerHTML = '';
-
     const books = await getBookList();
-    if (books.length > 0) {
-        books.forEach(book => {
-            const row = document.createElement('tr');
+    updateBookTable(books, 'bookTable');
+}
 
-            const titleCell = document.createElement('td');
-            titleCell.textContent = book.title;
-            row.appendChild(titleCell);
-
-            const authorCell = document.createElement('td');
-            authorCell.textContent = book.author;
-            row.appendChild(authorCell);
-
-            const copiesCell = document.createElement('td');
-            copiesCell.textContent = book.copies;
-            row.appendChild(copiesCell);
-
-            tableBody.appendChild(row);
-        });
-    } else {
-        const row = document.createElement('tr');
-        const cell = document.createElement('td');
-        cell.colSpan = 3;
-        cell.textContent = "No books available";
-        row.appendChild(cell);
-        tableBody.appendChild(row);
+async function tryToUpdateChart() {
+    try {
+        const response = await fetch('/api/Books?type=chart', { method: 'GET' });
+        if (!response.ok) {
+            throw new Error('Failed to load chart data');
+        }
+        const data = await response.json();
+        updateChart(data);
+    } catch (error) {
+        console.error('Error:', data);
+        alert('Failed to load chart data');
+        return [];
     }
 }
 

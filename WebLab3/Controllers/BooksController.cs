@@ -24,11 +24,16 @@ public class BooksController : ControllerBase
     }
 
     [HttpGet]
-    public IActionResult GetBooks()
+    public IActionResult GetBooks([FromQuery] string type)
     {
-        return Ok(Library.GetBooks());
+        if(type == "list")
+        {
+            return Ok(Library.GetBooks());
+        }
+        if (type == "chart")
+        {
+            return Ok(Library.GetChartValues());
+        }
+        return BadRequest(new { message = "Bad target" });
     }
-
-
-
 }

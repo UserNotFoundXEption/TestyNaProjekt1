@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "buL1AlhiZRT6a3ZBponsf7hcc+Ucat1a64GJ+NbYDPc=",
+  "Hash": "+b3BXA/f92AvDQ+Sqsi/r1hQJt8xm2GYb/G4eU0RrjE=",
   "Source": "WebLab3",
   "BasePath": "_content/WebLab3",
   "Mode": "Default",
@@ -566,6 +566,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\search.js"
+    },
+    {
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\js\\search-common-utils.js",
+      "SourceId": "WebLab3",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
+      "BasePath": "_content/WebLab3",
+      "RelativePath": "js/search-common-utils.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\search-common-utils.js"
     },
     {
       "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard.scss",

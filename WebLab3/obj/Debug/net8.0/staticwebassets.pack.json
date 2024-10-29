@@ -113,6 +113,10 @@
       "PackagePath": "staticwebassets\\js\\plugins\\perfect-scrollbar.jquery.min.js"
     },
     {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\js\\search-common-utils.js",
+      "PackagePath": "staticwebassets\\js\\search-common-utils.js"
+    },
+    {
       "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\js\\search.js",
       "PackagePath": "staticwebassets\\js\\search.js"
     },
