@@ -1,0 +1,269 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\css\\now-ui-dashboard.css",
+      "PackagePath": "staticwebassets\\css\\now-ui-dashboard.css"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\css\\now-ui-dashboard.css.map",
+      "PackagePath": "staticwebassets\\css\\now-ui-dashboard.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\css\\now-ui-dashboard.min.css",
+      "PackagePath": "staticwebassets\\css\\now-ui-dashboard.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\dashboard.html",
+      "PackagePath": "staticwebassets\\dashboard.html"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\fonts\\nucleo-license.md",
+      "PackagePath": "staticwebassets\\fonts\\nucleo-license.md"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\fonts\\nucleo-outline.eot",
+      "PackagePath": "staticwebassets\\fonts\\nucleo-outline.eot"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\fonts\\nucleo-outline.ttf",
+      "PackagePath": "staticwebassets\\fonts\\nucleo-outline.ttf"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\fonts\\nucleo-outline.woff",
+      "PackagePath": "staticwebassets\\fonts\\nucleo-outline.woff"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\fonts\\nucleo-outline.woff2",
+      "PackagePath": "staticwebassets\\fonts\\nucleo-outline.woff2"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\img\\apple-icon.png",
+      "PackagePath": "staticwebassets\\img\\apple-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\img\\bg5.jpg",
+      "PackagePath": "staticwebassets\\img\\bg5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\img\\default-avatar.png",
+      "PackagePath": "staticwebassets\\img\\default-avatar.png"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\img\\header.jpg",
+      "PackagePath": "staticwebassets\\img\\header.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\img\\mike.jpg",
+      "PackagePath": "staticwebassets\\img\\mike.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\img\\now-logo.png",
+      "PackagePath": "staticwebassets\\img\\now-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\img\\now-ui-dashboard.gif",
+      "PackagePath": "staticwebassets\\img\\now-ui-dashboard.gif"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\js\\core\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\core\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\js\\now-ui-dashboard.js",
+      "PackagePath": "staticwebassets\\js\\now-ui-dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\js\\now-ui-dashboard.js.map",
+      "PackagePath": "staticwebassets\\js\\now-ui-dashboard.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\js\\now-ui-dashboard.min.js",
+      "PackagePath": "staticwebassets\\js\\now-ui-dashboard.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\js\\plugins\\bootstrap-notify.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap-notify.js"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\js\\plugins\\chartjs.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\chartjs.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\js\\plugins\\perfect-scrollbar.jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\perfect-scrollbar.jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard.scss",
+      "PackagePath": "staticwebassets\\scss\\now-ui-dashboard.scss"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_alerts.scss",
+      "PackagePath": "staticwebassets\\scss\\now-ui-dashboard\\_alerts.scss"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\now-ui-dashboard\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_cards.scss",
+      "PackagePath": "staticwebassets\\scss\\now-ui-dashboard\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_checkboxes-radio.scss",
+      "PackagePath": "staticwebassets\\scss\\now-ui-dashboard\\_checkboxes-radio.scss"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\now-ui-dashboard\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\scss\\now-ui-dashboard\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_footers.scss",
+      "PackagePath": "staticwebassets\\scss\\now-ui-dashboard\\_footers.scss"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\now-ui-dashboard\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_inputs.scss",
+      "PackagePath": "staticwebassets\\scss\\now-ui-dashboard\\_inputs.scss"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_misc.scss",
+      "PackagePath": "staticwebassets\\scss\\now-ui-dashboard\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\now-ui-dashboard\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\now-ui-dashboard\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_nucleo-outline.scss",
+      "PackagePath": "staticwebassets\\scss\\now-ui-dashboard\\_nucleo-outline.scss"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_page-header.scss",
+      "PackagePath": "staticwebassets\\scss\\now-ui-dashboard\\_page-header.scss"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_responsive.scss",
+      "PackagePath": "staticwebassets\\scss\\now-ui-dashboard\\_responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_sidebar-and-main-panel.scss",
+      "PackagePath": "staticwebassets\\scss\\now-ui-dashboard\\_sidebar-and-main-panel.scss"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\now-ui-dashboard\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_typography.scss",
+      "PackagePath": "staticwebassets\\scss\\now-ui-dashboard\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\now-ui-dashboard\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\cards\\_card-chart.scss",
+      "PackagePath": "staticwebassets\\scss\\now-ui-dashboard\\cards\\_card-chart.scss"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\cards\\_card-map.scss",
+      "PackagePath": "staticwebassets\\scss\\now-ui-dashboard\\cards\\_card-map.scss"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\cards\\_card-plain.scss",
+      "PackagePath": "staticwebassets\\scss\\now-ui-dashboard\\cards\\_card-plain.scss"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\cards\\_card-user.scss",
+      "PackagePath": "staticwebassets\\scss\\now-ui-dashboard\\cards\\_card-user.scss"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\now-ui-dashboard\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\scss\\now-ui-dashboard\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\mixins\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\now-ui-dashboard\\mixins\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\mixins\\_inputs.scss",
+      "PackagePath": "staticwebassets\\scss\\now-ui-dashboard\\mixins\\_inputs.scss"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\mixins\\_page-header.scss",
+      "PackagePath": "staticwebassets\\scss\\now-ui-dashboard\\mixins\\_page-header.scss"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\mixins\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\scss\\now-ui-dashboard\\mixins\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\mixins\\_transparency.scss",
+      "PackagePath": "staticwebassets\\scss\\now-ui-dashboard\\mixins\\_transparency.scss"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\mixins\\_vendor-prefixes.scss",
+      "PackagePath": "staticwebassets\\scss\\now-ui-dashboard\\mixins\\_vendor-prefixes.scss"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\plugins\\_plugin-animate-bootstrap-notify.scss",
+      "PackagePath": "staticwebassets\\scss\\now-ui-dashboard\\plugins\\_plugin-animate-bootstrap-notify.scss"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\plugins\\_plugin-perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\scss\\now-ui-dashboard\\plugins\\_plugin-perfect-scrollbar.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebLab3.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebLab3.props",
+      "PackagePath": "build\\WebLab3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebLab3.props",
+      "PackagePath": "buildMultiTargeting\\WebLab3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebLab3.props",
+      "PackagePath": "buildTransitive\\WebLab3.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

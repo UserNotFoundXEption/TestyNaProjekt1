@@ -1,0 +1,6 @@
+@WebLab3_HostAddress = http://localhost:5255
+
+GET {{WebLab3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
