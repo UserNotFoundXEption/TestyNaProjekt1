@@ -25,6 +25,14 @@
       "PackagePath": "staticwebassets\\dashboard.html"
     },
     {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\demo\\demo.css",
+      "PackagePath": "staticwebassets\\demo\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\demo\\demo.js",
+      "PackagePath": "staticwebassets\\demo\\demo.js"
+    },
+    {
       "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\fonts\\nucleo-license.md",
       "PackagePath": "staticwebassets\\fonts\\nucleo-license.md"
     },
@@ -91,14 +99,6 @@
     {
       "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\js\\now-ui-dashboard.js",
       "PackagePath": "staticwebassets\\js\\now-ui-dashboard.js"
-    },
-    {
-      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\js\\now-ui-dashboard.js.map",
-      "PackagePath": "staticwebassets\\js\\now-ui-dashboard.js.map"
-    },
-    {
-      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\js\\now-ui-dashboard.min.js",
-      "PackagePath": "staticwebassets\\js\\now-ui-dashboard.min.js"
     },
     {
       "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\js\\plugins\\bootstrap-notify.js",

@@ -233,13 +233,12 @@
                         </div>
                     </div>
                 </div>
+                <!--ostatni rzad-->
                 <div class="row">
                     <div class="col-md-6">
-                        <!--new start-->
                         <div class="card card-book-entry">
                             <div class="card-header">
-                                <h5 class="card-category">Add new book</h5>
-                                <h4 class="card-title">Insert book info</h4>
+                                <h3 class="card-title">Add new book</h3>
                             </div>
                             <div class="card-body">
                                 <form id="bookForm">
@@ -255,13 +254,35 @@
                                         <label for="copies">Book available</label>
                                         <input type="number" class="form-control" id="copies" placeholder="3" min="1" required>
                                     </div>
-                                    <button type="submit" class="btn btn-primary">Add book</button>
+                                    <button type="submit" class="btn btn-primary" id="addBookButton">Add book</button>
                                 </form>
                             </div>
                         </div>
-                        <!--new end-->
+                    </div>
+                    <div class="col-md-6">
+                        <div class="card card-book-entry">
+                            <div class="card-header">
+                                <h3 class="card-title">List of books</h3>
+                            </div>
+                            <div class="card-body">
+                                <div class="book-table-container">
+                                    <table id="bookTable" class="table table-bordered">
+                                        <thead>
+                                            <tr>
+                                                <th>Title</th>
+                                                <th>Author</th>
+                                                <th>Copies available</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
+                <!--koniec ostatniego rzedu-->
             </div>
         </div>
         <footer class="footer">
@@ -300,14 +321,12 @@
     <script src="./js/core/popper.min.js"></script>
     <script src="./js/core/bootstrap.min.js"></script>
     <script src="./js/plugins/perfect-scrollbar.jquery.min.js"></script>
-    <!--  Google Maps Plugin    -->
-    <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY_HERE"></script>
     <!-- Chart JS -->
     <script src="./js/plugins/chartjs.min.js"></script>
     <!--  Notifications Plugin    -->
     <script src="./js/plugins/bootstrap-notify.js"></script>
     <!-- Control Center for Now Ui Dashboard: parallax effects, scripts for the example pages etc -->
-    <script src="./js/now-ui-dashboard.min.js?v=1.5.0" type="text/javascript"></script>
+    <script src="./js/now-ui-dashboard.js"></script>
     <script src="./demo/demo.js"></script>
     <script>
         $(document).ready(function () {

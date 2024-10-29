@@ -31,3 +31,4 @@ C:\Users\lordk\source\repos\WebLab3\WebLab3\obj\Debug\net8.0\refint\WebLab3.dll
 C:\Users\lordk\source\repos\WebLab3\WebLab3\obj\Debug\net8.0\WebLab3.pdb
 C:\Users\lordk\source\repos\WebLab3\WebLab3\obj\Debug\net8.0\WebLab3.genruntimeconfig.cache
 C:\Users\lordk\source\repos\WebLab3\WebLab3\obj\Debug\net8.0\ref\WebLab3.dll
+C:\Users\lordk\source\repos\WebLab3\WebLab3\obj\Debug\net8.0\WebLab3.sourcelink.json

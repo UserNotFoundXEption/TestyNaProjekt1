@@ -9,7 +9,7 @@
     "Parameters": [
       {
         "Name": "book",
-        "Type": "Book",
+        "Type": "WebLab3.Book",
         "IsRequired": true
       }
     ],

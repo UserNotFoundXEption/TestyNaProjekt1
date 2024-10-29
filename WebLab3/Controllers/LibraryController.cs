@@ -1,5 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
+using System.Text.Json;
+using WebLab3;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 [ApiController]
 [Route("api/[controller]")]
@@ -10,26 +13,22 @@ public class BooksController : ControllerBase
     [HttpPost]
     public IActionResult AddBook([FromBody] Book book)
     {
-        if (book == null || string.IsNullOrEmpty(book.Title) || string.IsNullOrEmpty(book.Author) || book.Copies <= 0)
+        if (Library.GetInstance().AddBook(book))
+        {
+            return Ok(new { message = "Book added" });
+        }
+        else
         {
             return BadRequest(new { message = "Bad book info" });
         }
-
-        Books.Add(book);
-
-        return Ok(new { message = "Book added" });
     }
 
     [HttpGet]
     public IActionResult GetBooks()
     {
-        return Ok(Books);
+        return Ok(Library.GetInstance().GetBooks());
     }
-}
 
-public class Book
-{
-    public string Title { get; set; }
-    public string Author { get; set; }
-    public int Copies { get; set; }
+
+
 }
