@@ -13,7 +13,7 @@ public class BooksController : ControllerBase
     [HttpPost]
     public IActionResult AddBook([FromBody] Book book)
     {
-        if (Library.GetInstance().AddBook(book))
+        if (Library.AddBook(book))
         {
             return Ok(new { message = "Book added" });
         }
@@ -26,7 +26,7 @@ public class BooksController : ControllerBase
     [HttpGet]
     public IActionResult GetBooks()
     {
-        return Ok(Library.GetInstance().GetBooks());
+        return Ok(Library.GetBooks());
     }
 
 

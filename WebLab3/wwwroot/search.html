@@ -153,122 +153,18 @@
                 </div>
             </nav>
             <!-- End Navbar -->
-            <div class="panel-header panel-header-lg">
-                <canvas id="bigDashboardChart"></canvas>
-            </div>
+            <div class="panel-header panel-header-lg" style="background-color: #001f3f; width: 100%; height: 100px;"></div>
             <div class="content">
-                <div class="row">
-                    <div class="col-lg-4">
-                        <div class="card card-chart">
-                            <div class="card-header">
-                                <h5 class="card-category">Global Sales</h5>
-                                <h4 class="card-title">Shipped Products</h4>
-                                <div class="dropdown">
-                                    <button type="button" class="btn btn-round btn-outline-default dropdown-toggle btn-simple btn-icon no-caret" data-toggle="dropdown">
-                                        <i class="now-ui-icons loader_gear"></i>
-                                    </button>
-                                    <div class="dropdown-menu dropdown-menu-right">
-                                        <a class="dropdown-item" href="#">Action</a>
-                                        <a class="dropdown-item" href="#">Another action</a>
-                                        <a class="dropdown-item" href="#">Something else here</a>
-                                        <a class="dropdown-item text-danger" href="#">Remove Data</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="card-body">
-                                <div class="chart-area">
-                                    <canvas id="lineChartExample"></canvas>
-                                </div>
-                            </div>
-                            <div class="card-footer">
-                                <div class="stats">
-                                    <i class="now-ui-icons arrows-1_refresh-69"></i> Just Updated
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="card card-chart">
-                            <div class="card-header">
-                                <h5 class="card-category">2018 Sales</h5>
-                                <h4 class="card-title">All products</h4>
-                                <div class="dropdown">
-                                    <button type="button" class="btn btn-round btn-outline-default dropdown-toggle btn-simple btn-icon no-caret" data-toggle="dropdown">
-                                        <i class="now-ui-icons loader_gear"></i>
-                                    </button>
-                                    <div class="dropdown-menu dropdown-menu-right">
-                                        <a class="dropdown-item" href="#">Action</a>
-                                        <a class="dropdown-item" href="#">Another action</a>
-                                        <a class="dropdown-item" href="#">Something else here</a>
-                                        <a class="dropdown-item text-danger" href="#">Remove Data</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="card-body">
-                                <div class="chart-area">
-                                    <canvas id="lineChartExampleWithNumbersAndGrid"></canvas>
-                                </div>
-                            </div>
-                            <div class="card-footer">
-                                <div class="stats">
-                                    <i class="now-ui-icons arrows-1_refresh-69"></i> Just Updated
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="card card-chart">
-                            <div class="card-header">
-                                <h5 class="card-category">Email Statistics</h5>
-                                <h4 class="card-title">24 Hours Performance</h4>
-                            </div>
-                            <div class="card-body">
-                                <div class="chart-area">
-                                    <canvas id="barChartSimpleGradientsNumbers"></canvas>
-                                </div>
-                            </div>
-                            <div class="card-footer">
-                                <div class="stats">
-                                    <i class="now-ui-icons ui-2_time-alarm"></i> Last 7 days
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
                 <!--ostatni rzad-->
                 <div class="row">
-                    <div class="col-md-6">
+                    <div class="col-md-12">
                         <div class="card card-book-entry">
                             <div class="card-header">
-                                <h3 class="card-title">Add new book</h3>
-                            </div>
-                            <div class="card-body">
-                                <form id="bookForm">
-                                    <div class="form-group">
-                                        <label for="title">Title</label>
-                                        <input type="text" class="form-control" id="title" placeholder="The Little Prince" required autocomplete="off">
-                                    </div>
-                                    <div class="form-group">
-                                        <label for="author">Author</label>
-                                        <input type="text" class="form-control" id="author" placeholder="Antoine de Saint-Exupéry" required autocomplete="off">
-                                    </div>
-                                    <div class="form-group">
-                                        <label for="copies">Book available</label>
-                                        <input type="number" class="form-control" id="copies" placeholder="3" min="1" required autocomplete="off">
-                                    </div>
-                                    <button type="submit" class="btn btn-primary" id="addBookButton">Add book</button>
-                                </form>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="card card-book-entry">
-                            <div class="card-header">
-                                <h3 class="card-title">List of books</h3>
+                                <h3 class="card-title">Search Results</h3>
                             </div>
                             <div class="card-body">
                                 <div class="book-table-container">
-                                    <table id="bookTable" class="table table-bordered">
+                                    <table id="bookTableSearch" class="table table-bordered">
                                         <thead>
                                             <tr>
                                                 <th>Title</th>
@@ -328,7 +224,7 @@
     <!--  Notifications Plugin    -->
     <script src="./js/plugins/bootstrap-notify.js"></script>
     <!-- Control Center for Now Ui Dashboard: parallax effects, scripts for the example pages etc -->
-    <script src="./js/now-ui-dashboard.js"></script>
+    <script src="./js/search.js"></script>
     <script src="./js/searchbar.js"></script>
     <script src="./demo/demo.js"></script>
     <script>

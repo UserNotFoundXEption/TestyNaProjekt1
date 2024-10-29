@@ -113,6 +113,10 @@
       "PackagePath": "staticwebassets\\js\\plugins\\perfect-scrollbar.jquery.min.js"
     },
     {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\js\\search.js",
+      "PackagePath": "staticwebassets\\js\\search.js"
+    },
+    {
       "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard.scss",
       "PackagePath": "staticwebassets\\scss\\now-ui-dashboard.scss"
     },
@@ -247,6 +251,10 @@
     {
       "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\plugins\\_plugin-perfect-scrollbar.scss",
       "PackagePath": "staticwebassets\\scss\\now-ui-dashboard\\plugins\\_plugin-perfect-scrollbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\search.html",
+      "PackagePath": "staticwebassets\\search.html"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebLab3.Microsoft.AspNetCore.StaticWebAssets.props",

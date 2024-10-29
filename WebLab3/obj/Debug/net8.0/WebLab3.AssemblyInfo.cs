@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebLab3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8d25e1c9a3a03e8cc35a8e762422b3e0e674f52")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9ec13074fe02a8081961b7fadfc5eb677680537")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebLab3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebLab3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

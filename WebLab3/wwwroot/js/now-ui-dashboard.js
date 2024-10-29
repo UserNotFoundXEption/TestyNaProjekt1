@@ -93,6 +93,7 @@ $(document).ready(function () {
             });
     });
 
+    document.getElementById('searchForm').addEventListener('submit', search);
     updateBookData();
 });
 
@@ -206,7 +207,6 @@ async function updateBookData() {
     const books = await getBookList();
     if (books.length > 0) {
         books.forEach(book => {
-            console.log(book);
             const row = document.createElement('tr');
 
             const titleCell = document.createElement('td');
