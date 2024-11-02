@@ -2,7 +2,9 @@ var myChart;
 
 $(document).ready(function () {
     initDashboardPageCharts();
+    tryToUpdateChart();
 });
+
 function initPickColor() {
     $('.pick-class-label').click(function() {
       var new_class = $(this).attr('new-class');
@@ -122,7 +124,11 @@ function initDashboardPageCharts() {
       }
     };
 
-    var ctx = document.getElementById('bigDashboardChart').getContext("2d");
+    var element = document.getElementById('bigDashboardChart');
+    if (element == undefined) {
+        return;
+    }
+    var ctx = element.getContext("2d");
 
     var gradientStroke = ctx.createLinearGradient(500, 0, 100, 0);
     gradientStroke.addColorStop(0, '#80b6f4');
@@ -135,7 +141,7 @@ function initDashboardPageCharts() {
     myChart = new Chart(ctx, {
       type: 'bar',
       data: {
-        labels: ["Ancient", "Middle Ages", "Renaissance", "Baroque", "Enlightment", "Romanticism", "Victorian", "Modern"],
+        labels: ["Ancient", "Middle Ages", "Renaissance", "Baroque", "Enlightenment", "Romanticism", "Victorian", "Modern"],
         datasets: [{
           label: "Data",
           borderColor: chartColor,

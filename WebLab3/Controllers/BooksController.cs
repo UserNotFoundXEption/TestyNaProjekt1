@@ -10,6 +10,8 @@ public class BooksController : ControllerBase
 {
     private static List<Book> Books = new List<Book>();
 
+
+
     [HttpPost]
     public IActionResult AddBook([FromBody] Book book)
     {
@@ -23,10 +25,20 @@ public class BooksController : ControllerBase
         }
     }
 
+    [HttpDelete("{id}")]
+    public IActionResult DeleteBook(int id)
+    {
+        if (Library.DeleteBook(id))
+        {
+            return Ok(new { message = "Book deleted" });
+        }
+        return NotFound(new { message = "Book not found" });
+    }
+
     [HttpGet]
     public IActionResult GetBooks([FromQuery] string type)
     {
-        if(type == "list")
+        if (type == "list")
         {
             return Ok(Library.GetBooks());
         }

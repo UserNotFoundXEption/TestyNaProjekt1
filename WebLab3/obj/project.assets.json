@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\WebLab3.csproj",
+      "projectUniqueName": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\WebLab3.csproj",
       "projectName": "WebLab3",
-      "projectPath": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\WebLab3.csproj",
+      "projectPath": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\WebLab3.csproj",
       "packagesPath": "C:\\Users\\lordk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\obj\\",
+      "outputPath": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lordk\\AppData\\Roaming\\NuGet\\NuGet.Config",

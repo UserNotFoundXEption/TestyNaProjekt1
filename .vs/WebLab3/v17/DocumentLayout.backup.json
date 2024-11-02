@@ -1,26 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lordk\\source\\repos\\WebLab3\\",
+  "WorkspaceRootPath": "C:\\Users\\lordk\\Desktop\\web3kk\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E831A86A-E181-4E91-B632-19B3E6C7B198}|WebLab3\\WebLab3.csproj|c:\\users\\lordk\\source\\repos\\weblab3\\weblab3\\wwwroot\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{E831A86A-E181-4E91-B632-19B3E6C7B198}|WebLab3\\WebLab3.csproj|solutionrelative:weblab3\\wwwroot\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{E831A86A-E181-4E91-B632-19B3E6C7B198}|WebLab3\\WebLab3.csproj|c:\\users\\lordk\\desktop\\web3kk\\weblab3\\wwwroot\\stats.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E831A86A-E181-4E91-B632-19B3E6C7B198}|WebLab3\\WebLab3.csproj|solutionrelative:weblab3\\wwwroot\\stats.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E831A86A-E181-4E91-B632-19B3E6C7B198}|WebLab3\\WebLab3.csproj|c:\\users\\lordk\\source\\repos\\weblab3\\weblab3\\wwwroot\\dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E831A86A-E181-4E91-B632-19B3E6C7B198}|WebLab3\\WebLab3.csproj|c:\\users\\lordk\\desktop\\web3kk\\weblab3\\wwwroot\\demo\\demo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E831A86A-E181-4E91-B632-19B3E6C7B198}|WebLab3\\WebLab3.csproj|solutionrelative:weblab3\\wwwroot\\demo\\demo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E831A86A-E181-4E91-B632-19B3E6C7B198}|WebLab3\\WebLab3.csproj|c:\\users\\lordk\\desktop\\web3kk\\weblab3\\wwwroot\\js\\now-ui-dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E831A86A-E181-4E91-B632-19B3E6C7B198}|WebLab3\\WebLab3.csproj|solutionrelative:weblab3\\wwwroot\\js\\now-ui-dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E831A86A-E181-4E91-B632-19B3E6C7B198}|WebLab3\\WebLab3.csproj|c:\\users\\lordk\\desktop\\web3kk\\weblab3\\wwwroot\\list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E831A86A-E181-4E91-B632-19B3E6C7B198}|WebLab3\\WebLab3.csproj|solutionrelative:weblab3\\wwwroot\\list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E831A86A-E181-4E91-B632-19B3E6C7B198}|WebLab3\\WebLab3.csproj|c:\\users\\lordk\\desktop\\web3kk\\weblab3\\wwwroot\\search.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E831A86A-E181-4E91-B632-19B3E6C7B198}|WebLab3\\WebLab3.csproj|solutionrelative:weblab3\\wwwroot\\search.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E831A86A-E181-4E91-B632-19B3E6C7B198}|WebLab3\\WebLab3.csproj|c:\\users\\lordk\\desktop\\web3kk\\weblab3\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E831A86A-E181-4E91-B632-19B3E6C7B198}|WebLab3\\WebLab3.csproj|solutionrelative:weblab3\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E831A86A-E181-4E91-B632-19B3E6C7B198}|WebLab3\\WebLab3.csproj|c:\\users\\lordk\\desktop\\web3kk\\weblab3\\wwwroot\\js\\search-common-utils.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E831A86A-E181-4E91-B632-19B3E6C7B198}|WebLab3\\WebLab3.csproj|solutionrelative:weblab3\\wwwroot\\js\\search-common-utils.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E831A86A-E181-4E91-B632-19B3E6C7B198}|WebLab3\\WebLab3.csproj|c:\\users\\lordk\\desktop\\web3kk\\weblab3\\wwwroot\\js\\search.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E831A86A-E181-4E91-B632-19B3E6C7B198}|WebLab3\\WebLab3.csproj|solutionrelative:weblab3\\wwwroot\\js\\search.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E831A86A-E181-4E91-B632-19B3E6C7B198}|WebLab3\\WebLab3.csproj|c:\\users\\lordk\\desktop\\web3kk\\weblab3\\wwwroot\\dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E831A86A-E181-4E91-B632-19B3E6C7B198}|WebLab3\\WebLab3.csproj|solutionrelative:weblab3\\wwwroot\\dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E831A86A-E181-4E91-B632-19B3E6C7B198}|WebLab3\\WebLab3.csproj|c:\\users\\lordk\\source\\repos\\weblab3\\weblab3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E831A86A-E181-4E91-B632-19B3E6C7B198}|WebLab3\\WebLab3.csproj|solutionrelative:weblab3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E831A86A-E181-4E91-B632-19B3E6C7B198}|WebLab3\\WebLab3.csproj|c:\\users\\lordk\\source\\repos\\weblab3\\weblab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E831A86A-E181-4E91-B632-19B3E6C7B198}|WebLab3\\WebLab3.csproj|solutionrelative:weblab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E831A86A-E181-4E91-B632-19B3E6C7B198}|WebLab3\\WebLab3.csproj|c:\\users\\lordk\\source\\repos\\weblab3\\weblab3\\weblab3.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{E831A86A-E181-4E91-B632-19B3E6C7B198}|WebLab3\\WebLab3.csproj|solutionrelative:weblab3\\weblab3.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{E831A86A-E181-4E91-B632-19B3E6C7B198}|WebLab3\\WebLab3.csproj|c:\\users\\lordk\\desktop\\web3kk\\weblab3\\wwwroot\\add.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E831A86A-E181-4E91-B632-19B3E6C7B198}|WebLab3\\WebLab3.csproj|solutionrelative:weblab3\\wwwroot\\add.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +50,136 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "bootstrap.min.css",
-              "DocumentMoniker": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\css\\bootstrap.min.css",
-              "RelativeDocumentMoniker": "WebLab3\\wwwroot\\css\\bootstrap.min.css",
-              "ToolTip": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\css\\bootstrap.min.css",
-              "RelativeToolTip": "WebLab3\\wwwroot\\css\\bootstrap.min.css",
-              "ViewState": "AgIAAHEsAAAAAAAAAAAowIMsAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-29T09:43:41.526Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "dashboard.html",
-              "DocumentMoniker": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\dashboard.html",
-              "RelativeDocumentMoniker": "WebLab3\\wwwroot\\dashboard.html",
-              "ToolTip": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\dashboard.html",
-              "RelativeToolTip": "WebLab3\\wwwroot\\dashboard.html",
-              "ViewState": "AgIAACIBAAAAAAAAAAAYwCYBAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-10-29T09:36:00.959Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "WebLab3\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\Properties\\launchSettings.json",
-              "RelativeToolTip": "WebLab3\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-29T09:35:15.895Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\Program.cs",
-              "RelativeDocumentMoniker": "WebLab3\\Program.cs",
-              "ToolTip": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\Program.cs",
-              "RelativeToolTip": "WebLab3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\Library.cs",
+              "RelativeDocumentMoniker": "WebLab3\\Library.cs",
+              "ToolTip": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\Library.cs",
+              "RelativeToolTip": "WebLab3\\Library.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAkwFcAAABsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T09:32:27.969Z",
+              "WhenOpened": "2024-11-02T16:43:29.596Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "WebLab3.http",
-              "DocumentMoniker": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\WebLab3.http",
-              "RelativeDocumentMoniker": "WebLab3\\WebLab3.http",
-              "ToolTip": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\WebLab3.http",
-              "RelativeToolTip": "WebLab3\\WebLab3.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-10-29T09:32:11.714Z",
+              "Title": "search.html",
+              "DocumentMoniker": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\search.html",
+              "RelativeDocumentMoniker": "WebLab3\\wwwroot\\search.html",
+              "ToolTip": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\search.html",
+              "RelativeToolTip": "WebLab3\\wwwroot\\search.html",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAswI0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-02T16:20:15.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "list.html",
+              "DocumentMoniker": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\list.html",
+              "RelativeDocumentMoniker": "WebLab3\\wwwroot\\list.html",
+              "ToolTip": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\list.html",
+              "RelativeToolTip": "WebLab3\\wwwroot\\list.html",
+              "ViewState": "AgIAALsAAAAAAAAAAAAswNUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-02T15:35:00.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "stats.html",
+              "DocumentMoniker": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\stats.html",
+              "RelativeDocumentMoniker": "WebLab3\\wwwroot\\stats.html",
+              "ToolTip": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\stats.html",
+              "RelativeToolTip": "WebLab3\\wwwroot\\stats.html",
+              "ViewState": "AgIAANoAAAAAAAAAAAAswPEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-02T15:40:48.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "demo.js",
+              "DocumentMoniker": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\demo\\demo.js",
+              "RelativeDocumentMoniker": "WebLab3\\wwwroot\\demo\\demo.js",
+              "ToolTip": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\demo\\demo.js",
+              "RelativeToolTip": "WebLab3\\wwwroot\\demo\\demo.js",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAiwI8AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-02T15:45:42.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "now-ui-dashboard.js",
+              "DocumentMoniker": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\js\\now-ui-dashboard.js",
+              "RelativeDocumentMoniker": "WebLab3\\wwwroot\\js\\now-ui-dashboard.js",
+              "ToolTip": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\js\\now-ui-dashboard.js",
+              "RelativeToolTip": "WebLab3\\wwwroot\\js\\now-ui-dashboard.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-02T15:33:05.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "add.html",
+              "DocumentMoniker": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\add.html",
+              "RelativeDocumentMoniker": "WebLab3\\wwwroot\\add.html",
+              "ToolTip": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\add.html",
+              "RelativeToolTip": "WebLab3\\wwwroot\\add.html",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAYwNkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-02T15:34:37.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "search-common-utils.js",
+              "DocumentMoniker": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\js\\search-common-utils.js",
+              "RelativeDocumentMoniker": "WebLab3\\wwwroot\\js\\search-common-utils.js",
+              "ToolTip": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\js\\search-common-utils.js",
+              "RelativeToolTip": "WebLab3\\wwwroot\\js\\search-common-utils.js",
+              "ViewState": "AgIAACYAAAAAAAAAAAAiwDoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-02T15:30:55.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "search.js",
+              "DocumentMoniker": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\js\\search.js",
+              "RelativeDocumentMoniker": "WebLab3\\wwwroot\\js\\search.js",
+              "ToolTip": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\js\\search.js",
+              "RelativeToolTip": "WebLab3\\wwwroot\\js\\search.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-02T15:30:34.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dashboard.html",
+              "DocumentMoniker": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\dashboard.html",
+              "RelativeDocumentMoniker": "WebLab3\\wwwroot\\dashboard.html",
+              "ToolTip": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\dashboard.html",
+              "RelativeToolTip": "WebLab3\\wwwroot\\dashboard.html",
+              "ViewState": "AgIAABgAAAAAAAAAAAAswCkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-02T15:25:12.461Z",
               "EditorCaption": ""
             }
           ]

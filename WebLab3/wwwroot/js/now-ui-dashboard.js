@@ -61,43 +61,7 @@ $(document).ready(function () {
         });
     });
 
-    document.getElementById('bookForm').addEventListener('submit', function (event) {
-        event.preventDefault();
-        const title = document.getElementById('title').value;
-        const author = document.getElementById('author').value;
-        const copies = document.getElementById('copies').value;
-        const period = document.getElementById('period').value;
-        const bookData = {
-            title: title,
-            author: author,
-            copies: parseInt(copies, 10),
-            period: period
-        };
-
-        fetch('/api/Books', {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json'
-            },
-            body: JSON.stringify(bookData)
-        })
-            .then(response => {
-                if (response.ok) {
-                    updateBookData();
-                    document.getElementById('bookForm').reset();
-                    tryToUpdateChart();
-                } else {
-                    alert('Failed to save book');
-                }
-            })
-            .catch(error => {
-                console.error('Error:', error);
-                alert('Connection failure.');
-            });
-    });
-
     document.getElementById('searchForm').addEventListener('submit', search);
-    updateBookData();
 });
 
 $(document).on('click', '.navbar-toggle', function () {
@@ -205,7 +169,7 @@ async function getBookList() {
 
 async function updateBookData() {
     const books = await getBookList();
-    updateBookTable(books, 'bookTable');
+    updateBookTable(books);
 }
 
 async function tryToUpdateChart() {
@@ -215,11 +179,68 @@ async function tryToUpdateChart() {
             throw new Error('Failed to load chart data');
         }
         const data = await response.json();
-        updateChart(data);
+        if (data != undefined) {
+            updateChart(data);
+        }
     } catch (error) {
-        console.error('Error:', data);
         alert('Failed to load chart data');
         return [];
     }
 }
+
+async function deleteBook(bookId) {
+    try {
+        const response = await fetch(`/api/Books/${bookId}`, {
+            method: 'DELETE'
+        });
+        const result = await response.json();
+        if (response.ok) { 
+            updateBookData();
+            if (document.getElementById('bigDashboardChart') != undefined) {
+                tryToUpdateChart();
+            }
+            alert(result.message);
+        } else {
+            alert(result.message);
+        }
+    } catch (error) {
+        console.error('Error:', error);
+        alert('Failed to delete book');
+    }
+}
+
+async function changeCount(command, bookId) {
+    const response = await fetch('/api/CountChange', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify(command+bookId)
+    })
+        .then(response => {
+            if (response.ok) {
+                if (window.location.pathname.includes('search')) {
+                    updateSearchResults();
+                }
+                else {
+                updateBookData();
+                }
+                const bookForm = document.getElementById('bookForm');
+                if (bookForm != undefined) {
+                    bookForm.reset()
+                }
+                if (document.getElementById('bigDashboardChart') != undefined) {
+                    tryToUpdateChart();
+                }
+            } else {
+                alert('Failed to change count');
+            }
+        })
+        .catch(error => {
+            console.error('Error:', error);
+            alert('Connection failure.');
+        });
+}
+
+
 

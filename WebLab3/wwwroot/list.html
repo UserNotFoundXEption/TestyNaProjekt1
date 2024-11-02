@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -16,12 +16,14 @@
     <!-- CSS Files -->
     <link href="css/bootstrap.min.css" rel="stylesheet" />
     <link href="css/now-ui-dashboard.css?v=1.5.0" rel="stylesheet" />
-    <link href="demo/demo.css" rel="stylesheet" />
 </head>
 
 <body class="">
     <div class="wrapper ">
         <div class="sidebar" data-color="orange">
+            <!--
+                Tip 1: You can change the color of the sidebar using: data-color="blue | green | orange | red | yellow"
+            -->
             <div class="logo">
                 <a class="simple-text logo-mini">
                     <img src="img/user_icon.png" height="20" width="20" />
@@ -73,7 +75,7 @@
                                 <span class="navbar-toggler-bar bar3"></span>
                             </button>
                         </div>
-                        <a class="navbar-brand" href="#pablo">Dashboard</a>
+                        <a class="navbar-brand">books available by literary periods</a>
                     </div>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-bar navbar-kebab"></span>
@@ -128,14 +130,17 @@
                 </div>
             </nav>
             <!-- End Navbar -->
-            <div class="panel-header panel-header-lg" style="background-color: #001f3f; width: 100%; height: 100px;"></div>
+            <div class="panel-header panel-header-sm">
+
+            </div>
             <div class="content">
                 <!--ostatni rzad-->
-                <div class="row">
-                    <div class="col-md-12">
+
+                <div class="d-flex justify-content-center align-items-center" style="min-height: 80vh;">
+                    <div class="col-md-8">
                         <div class="card card-book-entry">
                             <div class="card-header">
-                                <h3 class="card-title">Search Results</h3>
+                                <h3 class="card-title text-center">List of books</h3>
                             </div>
                             <div class="card-body">
                                 <div class="book-table-container">
@@ -145,9 +150,12 @@
                                                 <th>Title</th>
                                                 <th>Author</th>
                                                 <th>Copies available</th>
+                                                <th>Period</th>
+                                                <th>Action</th>
                                             </tr>
                                         </thead>
                                         <tbody>
+                                            <!-- tutaj będzie lista książek -->
                                         </tbody>
                                     </table>
                                 </div>
@@ -155,6 +163,12 @@
                         </div>
                     </div>
                 </div>
+
+
+
+
+
+
                 <!--koniec ostatniego rzedu-->
             </div>
         </div>
@@ -180,15 +194,13 @@
                     </ul>
                 </nav>
                 <div class="copyright" id="copyright">
-                    &copy;
-                    <script>
-                        document.getElementById('copyright').appendChild(document.createTextNode(new Date().getFullYear()))
-                    </script>, Designed by <a href="https://www.invisionapp.com" target="_blank">Invision</a>. Coded by <a href="https://www.creative-tim.com" target="_blank">Creative Tim</a>.
+                    kocham pierogi
                 </div>
             </div>
         </footer>
     </div>
-    </div>
+
+
     <!--   Core JS Files   -->
     <script src="./js/core/jquery.min.js"></script>
     <script src="./js/core/popper.min.js"></script>
@@ -199,9 +211,12 @@
     <!--  Notifications Plugin    -->
     <script src="./js/plugins/bootstrap-notify.js"></script>
     <!-- Control Center for Now Ui Dashboard: parallax effects, scripts for the example pages etc -->
-    <script src="./js/search.js"></script>
     <script src="./js/now-ui-dashboard.js"></script>
     <script src="./js/search-common-utils.js"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            updateBookData();
+        });</script>
 </body>
 
 </html>

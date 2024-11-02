@@ -26,63 +26,41 @@
                 Tip 1: You can change the color of the sidebar using: data-color="blue | green | orange | red | yellow"
             -->
             <div class="logo">
-                <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" class="simple-text logo-mini">
-                    CT
+                <a class="simple-text logo-mini">
+                    <img src="img/user_icon.png" height="20" width="20" />
                 </a>
-                <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" class="simple-text logo-normal">
-                    Cichy Tymon
+                <a class="simple-text logo-normal">
+                    Jan Karolak
                 </a>
             </div>
             <div class="sidebar-wrapper" id="sidebar-wrapper">
                 <ul class="nav">
                     <li class="active ">
                         <a href="./dashboard.html">
-                            <i class="now-ui-icons design_app"></i>
-                            <p>Dashboard</p>
+                            <i class="now-ui-icons location_world"></i>
+
+                            <p>Home</p>
                         </a>
                     </li>
                     <li>
-                        <a href="./icons.html">
-                            <i class="now-ui-icons education_atom"></i>
-                            <p>Icons</p>
+                        <a href="./add.html">
+                            <i class="now-ui-icons education_agenda-bookmark"></i>
+                            <p>Add book</p>
                         </a>
                     </li>
                     <li>
-                        <a href="./map.html">
-                            <i class="now-ui-icons location_map-big"></i>
-                            <p>Maps</p>
+                        <a href="./list.html">
+                            <i class="now-ui-icons files_single-copy-04"></i>
+                            <p>List of Books</p>
                         </a>
                     </li>
                     <li>
-                        <a href="./notifications.html">
-                            <i class="now-ui-icons ui-1_bell-53"></i>
-                            <p>Notifications</p>
+                        <a href="./stats.html">
+                            <i class="now-ui-icons business_chart-bar-32"></i>
+                            <p>Stats</p>
                         </a>
                     </li>
-                    <li>
-                        <a href="./user.html">
-                            <i class="now-ui-icons users_single-02"></i>
-                            <p>User Profile</p>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="./tables.html">
-                            <i class="now-ui-icons design_bullet-list-67"></i>
-                            <p>Table List</p>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="./typography.html">
-                            <i class="now-ui-icons text_caps-small"></i>
-                            <p>Typography</p>
-                        </a>
-                    </li>
-                    <li class="active-pro">
-                        <a href="./upgrade.html">
-                            <i class="now-ui-icons arrows-1_cloud-download-93"></i>
-                            <p>Upgrade to PRO</p>
-                        </a>
-                    </li>
+
                 </ul>
             </div>
         </div>
@@ -153,73 +131,33 @@
                 </div>
             </nav>
             <!-- End Navbar -->
-            <div class="panel-header panel-header-lg">
-                <canvas id="bigDashboardChart"></canvas>
+            <div class="panel-header panel-header-sm">
+                <
             </div>
             <div class="content">
                 <!--ostatni rzad-->
-                <div class="row">
-                    <div class="col-md-6">
-                        <div class="card card-book-entry">
+                <div class="content">
+                    <div class="container">
+                        <div class="card text-center">
                             <div class="card-header">
-                                <h3 class="card-title">Add new book</h3>
+                                <h4 class="card-title">Welcome to Our Library!</h4>
                             </div>
                             <div class="card-body">
-                                <form id="bookForm">
-                                    <div class="form-group">
-                                        <label for="title">Title</label>
-                                        <input type="text" class="form-control" id="title" placeholder="The Little Prince" required autocomplete="off">
-                                    </div>
-                                    <div class="form-group">
-                                        <label for="author">Author</label>
-                                        <input type="text" class="form-control" id="author" placeholder="Antoine de Saint-Exupéry" required autocomplete="off">
-                                    </div>
-                                    <div class="form-group">
-                                        <label for="copies">Book available</label>
-                                        <input type="number" class="form-control" id="copies" placeholder="3" min="1" required autocomplete="off">
-                                    </div>
-                                    <div class="form-group">
-                                        <label for="period">Period</label>
-                                        <select class="form-control" id="period" required>
-                                            <option value="Modern">Modern</option>
-                                            <option value="Victorian">Victorian</option>
-                                            <option value="Romanticism">Romanticism</option>
-                                            <option value="Enlightment">Enlightenment</option>
-                                            <option value="Baroque">Baroque</option>
-                                            <option value="Renaissance">Renaissance</option>
-                                            <option value="Middle Ages">Middle Ages</option>
-                                            <option value="Ancient">Ancient</option>
-                                        </select>
-                                    </div>
-                                    <button type="submit" class="btn btn-primary" id="addBookButton">Add book</button>
-                                </form>
+                                <p class="card-text">
+                                    Explore the library by adding new books, viewing the list of available books, and checking the statistics.
+                                </p>
+                                <!-- Add the welcoming image here -->
+                                <img src="img/welcome.png" alt="Welcome to Our Library" class="img-fluid" style="max-width: 80%; margin-top: 20px; margin-bottom: 20px;">
+
+
                             </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="card card-book-entry">
-                            <div class="card-header">
-                                <h3 class="card-title">List of books</h3>
-                            </div>
-                            <div class="card-body">
-                                <div class="book-table-container">
-                                    <table id="bookTable" class="table table-bordered">
-                                        <thead>
-                                            <tr>
-                                                <th>Title</th>
-                                                <th>Author</th>
-                                                <th>Copies available</th>
-                                                <th>Period</th>
-                                            </tr>
-                                        </thead>
-                                        <tbody>
-                                        </tbody>
-                                    </table>
-                                </div>
+                            <div class="card-footer text-muted">
+                                Powered by Now UI Dashboard by Creative Tim
                             </div>
                         </div>
                     </div>
                 </div>
+
                 <!--koniec ostatniego rzedu-->
             </div>
         </div>
@@ -250,7 +188,7 @@
             </div>
         </footer>
     </div>
-    </div>
+
     <!--   Core JS Files   -->
     <script src="./js/core/jquery.min.js"></script>
     <script src="./js/core/popper.min.js"></script>
@@ -263,7 +201,6 @@
     <!-- Control Center for Now Ui Dashboard: parallax effects, scripts for the example pages etc -->
     <script src="./js/now-ui-dashboard.js"></script>
     <script src="./js/search-common-utils.js"></script>
-    <script src="./demo/demo.js"></script>
 </body>
 
 </html>
