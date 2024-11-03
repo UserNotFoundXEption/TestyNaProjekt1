@@ -173,18 +173,20 @@ async function updateBookData() {
 }
 
 async function tryToUpdateChart() {
-    try {
-        const response = await fetch('/api/Books?type=chart', { method: 'GET' });
-        if (!response.ok) {
-            throw new Error('Failed to load chart data');
+    if (document.getElementById('bigDashboardChart') != undefined) {
+        try {
+            const response = await fetch('/api/Books?type=chart', { method: 'GET' });
+            if (!response.ok) {
+                throw new Error('Failed to load chart data');
+            }
+            const data = await response.json();
+            if (data != undefined) {
+                updateChart(data);
+            }
+        } catch (error) {
+            alert('Failed to load chart data');
+            return [];
         }
-        const data = await response.json();
-        if (data != undefined) {
-            updateChart(data);
-        }
-    } catch (error) {
-        alert('Failed to load chart data');
-        return [];
     }
 }
 
@@ -196,9 +198,7 @@ async function deleteBook(bookId) {
         const result = await response.json();
         if (response.ok) { 
             updateBookData();
-            if (document.getElementById('bigDashboardChart') != undefined) {
-                tryToUpdateChart();
-            }
+            tryToUpdateChart();
             alert(result.message);
         } else {
             alert(result.message);
@@ -229,9 +229,7 @@ async function changeCount(command, bookId) {
                 if (bookForm != undefined) {
                     bookForm.reset()
                 }
-                if (document.getElementById('bigDashboardChart') != undefined) {
-                    tryToUpdateChart();
-                }
+                tryToUpdateChart();
             } else {
                 alert('Failed to change count');
             }

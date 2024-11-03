@@ -143,7 +143,7 @@ function initDashboardPageCharts() {
       data: {
         labels: ["Ancient", "Middle Ages", "Renaissance", "Baroque", "Enlightenment", "Romanticism", "Victorian", "Modern"],
         datasets: [{
-          label: "Data",
+          label: "Books available",
           borderColor: chartColor,
           pointBorderColor: chartColor,
           pointBackgroundColor: "#1e3d60",
