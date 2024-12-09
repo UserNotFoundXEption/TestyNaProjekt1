@@ -1,6 +1,6 @@
 ﻿using System.Runtime.CompilerServices;
 
-namespace WebLab3
+namespace TestApp1
 {
     public class Library
     {

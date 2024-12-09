@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using WebLab3;
+using TestApp1;
 
 [ApiController]
 [Route("api/[controller]")]

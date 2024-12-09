@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "BNuVSOMjplwoLtz7yaamP9wpKjEgK6EIoVT4LxhgbMU=",
+  "Hash": "SYPtZqIlHHOW7wSSSIYCZyD6aAJWfjrN/pTpdny1/7o=",
   "Source": "WebLab3",
   "BasePath": "_content/WebLab3",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "WebLab3\\wwwroot",
       "Source": "WebLab3",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\add.html",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\add.html",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "add.html",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\add.html"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\css\\bootstrap.min.css.map",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\css\\now-ui-dashboard.css",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\css\\now-ui-dashboard.css",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "css/now-ui-dashboard.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\now-ui-dashboard.css"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\css\\now-ui-dashboard.css.map",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\css\\now-ui-dashboard.css.map",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "css/now-ui-dashboard.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\now-ui-dashboard.css.map"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\css\\now-ui-dashboard.min.css",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\css\\now-ui-dashboard.min.css",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "css/now-ui-dashboard.min.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\now-ui-dashboard.min.css"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\dashboard.html",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\dashboard.html",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "dashboard.html",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\dashboard.html"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\demo\\demo.css",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\demo\\demo.css",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "demo/demo.css",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\demo\\demo.css"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\demo\\demo.js",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\demo\\demo.js",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "demo/demo.js",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\demo\\demo.js"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\fonts\\nucleo-license.md",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\fonts\\nucleo-license.md",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "fonts/nucleo-license.md",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\nucleo-license.md"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\fonts\\nucleo-outline.eot",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\fonts\\nucleo-outline.eot",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "fonts/nucleo-outline.eot",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\nucleo-outline.eot"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\fonts\\nucleo-outline.ttf",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\fonts\\nucleo-outline.ttf",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "fonts/nucleo-outline.ttf",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\nucleo-outline.ttf"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\fonts\\nucleo-outline.woff",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\fonts\\nucleo-outline.woff",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "fonts/nucleo-outline.woff",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\nucleo-outline.woff"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\fonts\\nucleo-outline.woff2",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\fonts\\nucleo-outline.woff2",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "fonts/nucleo-outline.woff2",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\nucleo-outline.woff2"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\img\\apple-icon.png",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\img\\apple-icon.png",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "img/apple-icon.png",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\img\\apple-icon.png"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\img\\bg5.jpg",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\img\\bg5.jpg",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "img/bg5.jpg",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\img\\bg5.jpg"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\img\\default-avatar.png",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\img\\default-avatar.png",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "img/default-avatar.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\img\\default-avatar.png"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\img\\favicon.png",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\img\\favicon.png",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "img/favicon.png",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\img\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\img\\header.jpg",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\img\\header.jpg",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "img/header.jpg",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\img\\header.jpg"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\img\\mike.jpg",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\img\\mike.jpg",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "img/mike.jpg",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\img\\mike.jpg"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\img\\now-logo.png",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\img\\now-logo.png",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "img/now-logo.png",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\img\\now-logo.png"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\img\\now-ui-dashboard.gif",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\img\\now-ui-dashboard.gif",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "img/now-ui-dashboard.gif",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\img\\now-ui-dashboard.gif"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\img\\user_icon.png",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\img\\user_icon.png",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "img/user_icon.png",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\img\\user_icon.png"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\img\\welcome.png",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\img\\welcome.png",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "img/welcome.png",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\img\\welcome.png"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\js\\book-form.js",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\js\\book-form.js",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "js/book-form.js",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\js\\book-form.js"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\js\\core\\bootstrap.min.js",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\js\\core\\bootstrap.min.js",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "js/core/bootstrap.min.js",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\js\\core\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\js\\core\\jquery.min.js",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\js\\core\\jquery.min.js",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "js/core/jquery.min.js",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\js\\core\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\js\\core\\popper.min.js",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\js\\core\\popper.min.js",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "js/core/popper.min.js",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\js\\core\\popper.min.js"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\js\\now-ui-dashboard.js",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\js\\now-ui-dashboard.js",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "js/now-ui-dashboard.js",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\js\\now-ui-dashboard.js"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\js\\plugins\\bootstrap-notify.js",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\js\\plugins\\bootstrap-notify.js",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "js/plugins/bootstrap-notify.js",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\js\\plugins\\bootstrap-notify.js"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\js\\plugins\\chartjs.min.js",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\js\\plugins\\chartjs.min.js",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "js/plugins/chartjs.min.js",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\js\\plugins\\chartjs.min.js"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\js\\plugins\\perfect-scrollbar.jquery.min.js",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\js\\plugins\\perfect-scrollbar.jquery.min.js",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "js/plugins/perfect-scrollbar.jquery.min.js",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\js\\plugins\\perfect-scrollbar.jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\js\\search.js",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\js\\search.js",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "js/search.js",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\js\\search.js"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\js\\search-common-utils.js",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\js\\search-common-utils.js",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "js/search-common-utils.js",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\js\\search-common-utils.js"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\list.html",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\list.html",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "list.html",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\list.html"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\scss\\now-ui-dashboard.scss",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard.scss",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "scss/now-ui-dashboard.scss",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\now-ui-dashboard.scss"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_alerts.scss",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_alerts.scss",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "scss/now-ui-dashboard/_alerts.scss",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\now-ui-dashboard\\_alerts.scss"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_buttons.scss",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_buttons.scss",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "scss/now-ui-dashboard/_buttons.scss",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\now-ui-dashboard\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_cards.scss",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_cards.scss",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "scss/now-ui-dashboard/_cards.scss",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\now-ui-dashboard\\_cards.scss"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_checkboxes-radio.scss",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_checkboxes-radio.scss",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "scss/now-ui-dashboard/_checkboxes-radio.scss",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\now-ui-dashboard\\_checkboxes-radio.scss"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_dropdown.scss",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_dropdown.scss",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "scss/now-ui-dashboard/_dropdown.scss",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\now-ui-dashboard\\_dropdown.scss"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_fixed-plugin.scss",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_fixed-plugin.scss",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "scss/now-ui-dashboard/_fixed-plugin.scss",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\now-ui-dashboard\\_fixed-plugin.scss"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_footers.scss",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_footers.scss",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "scss/now-ui-dashboard/_footers.scss",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\now-ui-dashboard\\_footers.scss"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_images.scss",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_images.scss",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "scss/now-ui-dashboard/_images.scss",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\now-ui-dashboard\\_images.scss"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_inputs.scss",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_inputs.scss",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "scss/now-ui-dashboard/_inputs.scss",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\now-ui-dashboard\\_inputs.scss"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_misc.scss",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_misc.scss",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "scss/now-ui-dashboard/_misc.scss",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\now-ui-dashboard\\_misc.scss"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_mixins.scss",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_mixins.scss",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "scss/now-ui-dashboard/_mixins.scss",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\now-ui-dashboard\\_mixins.scss"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_navbar.scss",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_navbar.scss",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "scss/now-ui-dashboard/_navbar.scss",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\now-ui-dashboard\\_navbar.scss"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_nucleo-outline.scss",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_nucleo-outline.scss",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "scss/now-ui-dashboard/_nucleo-outline.scss",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\now-ui-dashboard\\_nucleo-outline.scss"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_page-header.scss",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_page-header.scss",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "scss/now-ui-dashboard/_page-header.scss",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\now-ui-dashboard\\_page-header.scss"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_responsive.scss",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_responsive.scss",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "scss/now-ui-dashboard/_responsive.scss",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\now-ui-dashboard\\_responsive.scss"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_sidebar-and-main-panel.scss",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_sidebar-and-main-panel.scss",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "scss/now-ui-dashboard/_sidebar-and-main-panel.scss",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\now-ui-dashboard\\_sidebar-and-main-panel.scss"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_tables.scss",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_tables.scss",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "scss/now-ui-dashboard/_tables.scss",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\now-ui-dashboard\\_tables.scss"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_typography.scss",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_typography.scss",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "scss/now-ui-dashboard/_typography.scss",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\now-ui-dashboard\\_typography.scss"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_variables.scss",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\_variables.scss",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "scss/now-ui-dashboard/_variables.scss",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\now-ui-dashboard\\_variables.scss"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\cards\\_card-chart.scss",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\cards\\_card-chart.scss",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "scss/now-ui-dashboard/cards/_card-chart.scss",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\now-ui-dashboard\\cards\\_card-chart.scss"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\cards\\_card-map.scss",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\cards\\_card-map.scss",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "scss/now-ui-dashboard/cards/_card-map.scss",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\now-ui-dashboard\\cards\\_card-map.scss"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\cards\\_card-plain.scss",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\cards\\_card-plain.scss",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "scss/now-ui-dashboard/cards/_card-plain.scss",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\now-ui-dashboard\\cards\\_card-plain.scss"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\cards\\_card-user.scss",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\cards\\_card-user.scss",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "scss/now-ui-dashboard/cards/_card-user.scss",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\now-ui-dashboard\\cards\\_card-user.scss"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\mixins\\_buttons.scss",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\mixins\\_buttons.scss",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "scss/now-ui-dashboard/mixins/_buttons.scss",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\now-ui-dashboard\\mixins\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\mixins\\_cards.scss",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\mixins\\_cards.scss",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "scss/now-ui-dashboard/mixins/_cards.scss",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\now-ui-dashboard\\mixins\\_cards.scss"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\mixins\\_dropdown.scss",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\mixins\\_dropdown.scss",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "scss/now-ui-dashboard/mixins/_dropdown.scss",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\now-ui-dashboard\\mixins\\_dropdown.scss"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\mixins\\_inputs.scss",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\mixins\\_inputs.scss",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "scss/now-ui-dashboard/mixins/_inputs.scss",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\now-ui-dashboard\\mixins\\_inputs.scss"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\mixins\\_page-header.scss",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\mixins\\_page-header.scss",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "scss/now-ui-dashboard/mixins/_page-header.scss",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\now-ui-dashboard\\mixins\\_page-header.scss"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\mixins\\_sidebar.scss",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\mixins\\_sidebar.scss",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "scss/now-ui-dashboard/mixins/_sidebar.scss",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\now-ui-dashboard\\mixins\\_sidebar.scss"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\mixins\\_transparency.scss",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\mixins\\_transparency.scss",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "scss/now-ui-dashboard/mixins/_transparency.scss",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\now-ui-dashboard\\mixins\\_transparency.scss"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\mixins\\_vendor-prefixes.scss",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\mixins\\_vendor-prefixes.scss",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "scss/now-ui-dashboard/mixins/_vendor-prefixes.scss",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\now-ui-dashboard\\mixins\\_vendor-prefixes.scss"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\plugins\\_plugin-animate-bootstrap-notify.scss",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\plugins\\_plugin-animate-bootstrap-notify.scss",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "scss/now-ui-dashboard/plugins/_plugin-animate-bootstrap-notify.scss",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\now-ui-dashboard\\plugins\\_plugin-animate-bootstrap-notify.scss"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\plugins\\_plugin-perfect-scrollbar.scss",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\scss\\now-ui-dashboard\\plugins\\_plugin-perfect-scrollbar.scss",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "scss/now-ui-dashboard/plugins/_plugin-perfect-scrollbar.scss",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\now-ui-dashboard\\plugins\\_plugin-perfect-scrollbar.scss"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\search.html",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\search.html",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "search.html",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\search.html"
     },
     {
-      "Identity": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\stats.html",
+      "Identity": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\stats.html",
       "SourceId": "WebLab3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lordk\\source\\repos\\WebLab3\\WebLab3\\wwwroot\\",
       "BasePath": "_content/WebLab3",
       "RelativePath": "stats.html",
       "AssetKind": "All",

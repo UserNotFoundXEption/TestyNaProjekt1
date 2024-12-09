@@ -428,19 +428,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lordk\\.nuget\\packages\\": {}
+    "C:\\Users\\lordk\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\WebLab3.csproj",
-      "projectName": "WebLab3",
-      "projectPath": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\WebLab3.csproj",
+      "projectUniqueName": "C:\\Users\\lordk\\source\\repos\\TestyNaProjekt1\\WebLab3\\App.csproj",
+      "projectName": "App",
+      "projectPath": "C:\\Users\\lordk\\source\\repos\\TestyNaProjekt1\\WebLab3\\App.csproj",
       "packagesPath": "C:\\Users\\lordk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lordk\\Desktop\\web3kk\\WebLab3\\obj\\",
+      "outputPath": "C:\\Users\\lordk\\source\\repos\\TestyNaProjekt1\\WebLab3\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\lordk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -496,7 +501,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
